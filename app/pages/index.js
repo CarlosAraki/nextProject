@@ -3,7 +3,7 @@ import {useState} from "react"
 function Home (){
     return(
             <div>
-                <h1> Full Alexandre </h1>
+                <h1> Full Alexandre Homolog </h1>
                 <Contador/>
             </div>
         ) 
