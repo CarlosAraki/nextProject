@@ -3,7 +3,7 @@ import {useState} from "react"
 function Home (){
     return(
             <div>
-                <h1> Oi mozao Linda acabei de fazer um deploy Full </h1>
+                <h1> Full Barh </h1>
                 <Contador/>
             </div>
         ) 
